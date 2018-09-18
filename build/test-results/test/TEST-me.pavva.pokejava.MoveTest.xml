@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.pavva.pokejava.MoveTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-09-13T14:17:15" hostname="Users-MacBook-Pro.local" time="0.027">
+  <properties/>
+  <testcase name="attack" classname="me.pavva.pokejava.MoveTest" time="0.02"/>
+  <testcase name="getName" classname="me.pavva.pokejava.MoveTest" time="0.002"/>
+  <testcase name="getType" classname="me.pavva.pokejava.MoveTest" time="0.0"/>
+  <testcase name="setPoints" classname="me.pavva.pokejava.MoveTest" time="0.0"/>
+  <testcase name="getPoints" classname="me.pavva.pokejava.MoveTest" time="0.0"/>
+  <testcase name="getPower" classname="me.pavva.pokejava.MoveTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.pavva.pokejava.pokemon.IcePokemonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-13T14:17:15" hostname="Users-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <testcase name="testPokemon" classname="me.pavva.pokejava.pokemon.IcePokemonTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

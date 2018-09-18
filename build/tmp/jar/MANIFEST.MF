@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: PokeJava
+Implementation-Version: 4.2.2
+Main-Class: me.pavva.pokejava.App
+

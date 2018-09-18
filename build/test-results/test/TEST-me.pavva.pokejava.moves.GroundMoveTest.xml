@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.pavva.pokejava.moves.GroundMoveTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-13T14:17:15" hostname="Users-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="testMove" classname="me.pavva.pokejava.moves.GroundMoveTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

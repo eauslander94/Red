@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.pavva.pokejava.PokemonTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-09-13T14:17:16" hostname="Users-MacBook-Pro.local" time="0.015">
+  <properties/>
+  <testcase name="getDefense" classname="me.pavva.pokejava.PokemonTest" time="0.001"/>
+  <testcase name="getMove" classname="me.pavva.pokejava.PokemonTest" time="0.009"/>
+  <testcase name="getName" classname="me.pavva.pokejava.PokemonTest" time="0.0"/>
+  <testcase name="getType" classname="me.pavva.pokejava.PokemonTest" time="0.0"/>
+  <testcase name="setHealth" classname="me.pavva.pokejava.PokemonTest" time="0.0"/>
+  <testcase name="getAttack" classname="me.pavva.pokejava.PokemonTest" time="0.0"/>
+  <testcase name="getHealth" classname="me.pavva.pokejava.PokemonTest" time="0.0"/>
+  <testcase name="getMoveList" classname="me.pavva.pokejava.PokemonTest" time="0.0"/>
+  <system-out><![CDATA[
+
+
+
+Looking for Move
+
+
+me.pavva.pokejava.Move@abc7d01
+
+
+
+
+Looking for Solarbeam
+
+
+me.pavva.pokejava.Move@abc7d01
+
+
+me.pavva.pokejava.Move@560156b6
+
+
+me.pavva.pokejava.Move@1fd718fc
+
+
+me.pavva.pokejava.Move@2bb52e32
+
+
+
+
+Looking for Water Gun
+
+
+me.pavva.pokejava.Move@abc7d01
+
+
+me.pavva.pokejava.Move@560156b6
+
+
+me.pavva.pokejava.Move@1fd718fc
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
